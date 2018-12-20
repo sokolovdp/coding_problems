@@ -53,7 +53,6 @@ def solution_3():
 
         right = values[values.index('right'):]
         left = values[1:values.index('right')]
-        print(left, right)
         return Node(1)
 
     node = Node('root', Node('left', Node('left.left')), Node('right'))
