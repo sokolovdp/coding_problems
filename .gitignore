@@ -105,9 +105,4 @@ venv.bak/
 # mypy
 .mypy_cache/
 .idea/
-.idea/coding_problems.iml
-.idea/encodings.xml
-.idea/misc.xml
-.idea/modules.xml
-.idea/workspace.xml
-solutions.py
+
